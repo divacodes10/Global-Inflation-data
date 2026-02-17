@@ -42,7 +42,7 @@ Distribution analysis
 
 Panel data modeling
 
-🔧 Tools & Libraries Used
+- Tools & Libraries Used
 
 Python
 
